@@ -1,4 +1,4 @@
-# n3g_ngome
+# n3g_ngombe_demo
 
 A new Flutter project.
 
